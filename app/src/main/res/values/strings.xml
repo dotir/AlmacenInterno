@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sharedPreferd</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_leer">Leer</string>
+    <string name="hint_valor">Valor</string>
+    <string name="preferencias_compartidas">Preferencias Compartidas</string>
+</resources>
